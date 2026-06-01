@@ -1,0 +1,44 @@
+[
+  {
+    "factor": "Political",
+    "level": "Medio-alto",
+    "opportunity": "Green Deal, ETS, CBAM, Innovation Fund e programmi deep-tech.",
+    "risk": "Dipendenza da incentivi e tempi regolatori.",
+    "implication": "Costruire un caso coerente con policy UE e industrial decarbonization."
+  },
+  {
+    "factor": "Economic",
+    "level": "Alto",
+    "opportunity": "Costo carbonio e domanda di CO low-carbon possono creare premium.",
+    "risk": "OPEX dominato da elettricita, compressione, separazione e uptime.",
+    "implication": "Serve TEA con scenari di prezzo energia e confronto con alternative."
+  },
+  {
+    "factor": "Social",
+    "level": "Medio",
+    "opportunity": "Pressione ESG e reputazionale sui clienti industriali.",
+    "risk": "Greenwashing se LCA e origine energia non sono verificabili.",
+    "implication": "Affiancare LCA trasparente alla narrativa circular carbon."
+  },
+  {
+    "factor": "Technological",
+    "level": "Alto",
+    "opportunity": "AEM/MEA/GDE e catalizzatori non nobili sono vicini al focus ECO-RED.",
+    "risk": "Durability, carbonate crossover, stack, separazione e purezza del CO.",
+    "implication": "Priorita a protocolli di test, failure analysis e scale-up controllato."
+  },
+  {
+    "factor": "Environmental",
+    "level": "Medio-alto",
+    "opportunity": "Valorizzazione CO2 e riduzione dipendenza da CO fossile.",
+    "risk": "Beneficio climatico dipendente da energia, CO2 source e carbon efficiency.",
+    "implication": "Misurare carbon balance, single-pass conversion e qualita del prodotto."
+  },
+  {
+    "factor": "Legal",
+    "level": "Alto",
+    "opportunity": "Brevetti e licenze possono creare barriera all'entrata.",
+    "risk": "FTO, licenza IIT, CLP/REACH, Seveso e permessi impiantistici.",
+    "implication": "Avviare FTO professionale e piano HSE prima del pilota industriale."
+  }
+]

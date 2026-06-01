@@ -1,0 +1,26 @@
+{
+  "Strengths": [
+    "Catalizzatore non nobile Cu2O-Sb.",
+    "FE_CO dichiarata elevata, circa 97%.",
+    "Route AEM/MEA low-temperature e potenzialmente modulare.",
+    "Ecosistema Torino/IIT/Politecnico con credibilita scientifica."
+  ],
+  "Weaknesses": [
+    "Durability ancora lontana dalle soglie industriali.",
+    "TRL integrato da validare con protocolli esterni.",
+    "Dipendenza dalla licenza IIT e da componenti terzi.",
+    "Single-pass conversion, purezza e TEA non ancora pienamente dimostrate."
+  ],
+  "Opportunities": [
+    "Decarbonizzazione hard-to-abate.",
+    "Fondi UE e domanda ESG.",
+    "Partnership con chemicals, green steel e Power-to-X.",
+    "White spaces tra ricerca scientifica e appropriazione brevettuale."
+  ],
+  "Threats": [
+    "Competitori AEM come eChemicles e player SOEC maturi.",
+    "Alternative RWGS/plasma con diversa maturita.",
+    "Patent thicket su MEA, membrane, GDL, stack e BoP.",
+    "Costo energia e requisiti HSE per CO tossico/infiammabile."
+  ]
+}

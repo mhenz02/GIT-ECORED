@@ -1,0 +1,58 @@
+[
+  {
+    "name": "eChemicles",
+    "type": "Diretto",
+    "technology": "AEM / elettrolisi CO2 low-temperature",
+    "maturity": "Piu avanzato su scala elettrodi secondo materiali disponibili",
+    "threat": "Alta",
+    "reading": "Benchmark piu vicino per architettura e mercato; da monitorare su IP AEM."
+  },
+  {
+    "name": "Topsoe",
+    "type": "Indiretto forte",
+    "technology": "SOEC high-temperature",
+    "maturity": "Alta",
+    "threat": "Alta",
+    "reading": "Tecnologia diversa ma credibilita industriale e scala elevate."
+  },
+  {
+    "name": "Sunfire",
+    "type": "Indiretto",
+    "technology": "SOEC / green H2 / syngas",
+    "maturity": "Alta",
+    "threat": "Medio-alta",
+    "reading": "Competizione su clienti industriali e Power-to-X."
+  },
+  {
+    "name": "Dioxide Materials",
+    "type": "Diretto/adiacente",
+    "technology": "AEM CO2 electrolysis",
+    "maturity": "Media",
+    "threat": "Medio-alta",
+    "reading": "Rilevante per IP su AEM e celle low-temperature."
+  },
+  {
+    "name": "Twelve",
+    "type": "Adiacente",
+    "technology": "CO2-to-syngas / CO2 electrolysis",
+    "maturity": "Alta",
+    "threat": "Medio-alta",
+    "reading": "Forte capacita industriale e narrativa market-facing."
+  },
+  {
+    "name": "D-CRBN",
+    "type": "Sostituto",
+    "technology": "Plasma CO2 conversion",
+    "maturity": "Media",
+    "threat": "Media",
+    "reading": "Tecnologia diversa ma bisogno cliente sovrapposto."
+  },
+  {
+    "name": "Siemens Energy",
+    "type": "Grande player",
+    "technology": "System integration / energy infrastructure",
+    "maturity": "Alta",
+    "threat": "Media",
+    "reading": "Potenziale competitor, partner o integratore."
+  }
+]
