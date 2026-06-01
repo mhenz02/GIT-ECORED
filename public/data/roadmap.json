@@ -1,0 +1,58 @@
+[
+  {
+    "phase": "1",
+    "objective": "Diagnosi degrado",
+    "milestone": "Identificare meccanismi di failure",
+    "kpi": "Protocollo ripetibile e loss budget",
+    "risk": "Se non emerge causa entro M4, ritardare scale-up.",
+    "deliverable": "Failure analysis report"
+  },
+  {
+    "phase": "2",
+    "objective": "Ottimizzazione MEA/GDE",
+    "milestone": "Stabilita 300-500 h in condizioni definite",
+    "kpi": "FE_CO >=90%, j >=200 mA/cm2, 300-500 h",
+    "risk": "Trade-off FE/current/stability.",
+    "deliverable": "Validated cell package"
+  },
+  {
+    "phase": "3",
+    "objective": "Scale-up cella",
+    "milestone": "100 -> 500 cm2",
+    "kpi": "Prestazioni comparabili su area maggiore",
+    "risk": "Trasporto massa e uniformita coating.",
+    "deliverable": "Scale-up dossier"
+  },
+  {
+    "phase": "4",
+    "objective": "Short stack",
+    "milestone": "Integrazione multi-cella",
+    "kpi": "Uptime, cell voltage, purezza CO",
+    "risk": "BoP e gestione termica/acqua.",
+    "deliverable": "Stack test report"
+  },
+  {
+    "phase": "5",
+    "objective": "IP/FTO",
+    "milestone": "FTO professionale e deposito IP proprio",
+    "kpi": "Claims risk map e design-around",
+    "risk": "Patent thicket AEM/MEA.",
+    "deliverable": "FTO memo + IP roadmap"
+  },
+  {
+    "phase": "6",
+    "objective": "TEA/LCA e HSE",
+    "milestone": "Economics e safety per use case target",
+    "kpi": "Costo CO, carbon intensity, HAZOP preliminare",
+    "risk": "Energia e permitting.",
+    "deliverable": "Investor data room"
+  },
+  {
+    "phase": "7",
+    "objective": "Pilota industriale",
+    "milestone": "Partner e dimostratore 10-100 kW",
+    "kpi": "Contratto pilota/offtake e dati terza parte",
+    "risk": "Adozione cliente lenta.",
+    "deliverable": "Pilot agreement"
+  }
+]

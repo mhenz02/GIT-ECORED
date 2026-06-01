@@ -1,0 +1,50 @@
+[
+  {
+    "risk": "Stabilita insufficiente",
+    "impact": 5,
+    "probability": 4,
+    "mitigation": "Failure analysis SEM/XPS/ICP, stress test e ottimizzazione MEA."
+  },
+  {
+    "risk": "Scale-up cella/stack",
+    "impact": 5,
+    "probability": 4,
+    "mitigation": "Passaggi 100 -> 500 cm2 -> short stack con protocolli comparabili."
+  },
+  {
+    "risk": "Dipendenza licenza IIT",
+    "impact": 5,
+    "probability": 3,
+    "mitigation": "Accordo esclusivo chiaro, field-of-use e piano IP proprio."
+  },
+  {
+    "risk": "FTO su componenti",
+    "impact": 5,
+    "probability": 4,
+    "mitigation": "FTO professionale su claims, giurisdizioni e design-around."
+  },
+  {
+    "risk": "Costo energia",
+    "impact": 4,
+    "probability": 4,
+    "mitigation": "PPA rinnovabili, use case ad alto valore e ottimizzazione cell voltage."
+  },
+  {
+    "risk": "Separazione e purezza CO",
+    "impact": 4,
+    "probability": 3,
+    "mitigation": "Validare downstream, riciclo e specifiche cliente."
+  },
+  {
+    "risk": "CO safety e permessi",
+    "impact": 5,
+    "probability": 3,
+    "mitigation": "HAZOP, CLP/REACH, Seveso screening e piano HSE."
+  },
+  {
+    "risk": "Competitor maturi",
+    "impact": 4,
+    "probability": 4,
+    "mitigation": "Focus su nicchie early adopter e differenziazione low-temperature."
+  }
+]

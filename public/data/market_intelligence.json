@@ -1,0 +1,63 @@
+{
+  "drivers": [
+    {
+      "name": "Decarbonizzazione hard-to-abate",
+      "text": "Acciaio, chemicals e fuel hanno bisogno di feedstock a minore intensita carbonica."
+    },
+    {
+      "name": "Carbon pricing e policy UE",
+      "text": "ETS, CBAM, Innovation Fund e pressione net-zero possono aumentare il valore di soluzioni CCU verificabili."
+    },
+    {
+      "name": "CO come building block",
+      "text": "Il CO abilita syngas, e-fuels, chemicals e processi metallurgici."
+    },
+    {
+      "name": "Costo elettricita",
+      "text": "La competitivita dipende fortemente da energia rinnovabile a basso costo e alto fattore di utilizzo."
+    }
+  ],
+  "applications": [
+    "Chemicals",
+    "Syngas",
+    "E-fuels",
+    "Green steel",
+    "Metallurgia",
+    "On-site CO",
+    "Power-to-X"
+  ],
+  "business_models": [
+    {
+      "name": "Vendita stack/elettrolizzatore",
+      "risk": "medio",
+      "note": "Richiede engineering industriale e assistenza."
+    },
+    {
+      "name": "Licensing componenti",
+      "risk": "medio-alto",
+      "note": "Dipende dalla robustezza IP e dalla licenza IIT."
+    },
+    {
+      "name": "CO-as-a-service",
+      "risk": "alto",
+      "note": "Maggiore valore ma necessita capitale, HSE e contratti offtake."
+    }
+  ],
+  "scenarios": [
+    {
+      "name": "Optimistic acceleration",
+      "probability": "scenario",
+      "reading": "Energia rinnovabile economica, policy forte e partner industriale anticipano il pilota."
+    },
+    {
+      "name": "Slow but steady",
+      "probability": "base case",
+      "reading": "La tecnologia avanza, ma richiede milestone tecniche e FTO prima dello scale-up."
+    },
+    {
+      "name": "Niche / delayed adoption",
+      "probability": "scenario",
+      "reading": "Energia cara, concorrenza SOEC/RWGS e durability lenta limitano adozione."
+    }
+  ]
+}

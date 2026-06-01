@@ -1,0 +1,71 @@
+[
+  {
+    "title": "ECO-RED.pdf",
+    "type": "Pitch deck",
+    "sections": [
+      "Home",
+      "ECO-RED Profile",
+      "Market",
+      "TRL"
+    ],
+    "limits": "Materiale di presentazione, non test report indipendente.",
+    "path": "progetto/ECO-RED.pdf"
+  },
+  {
+    "title": "ECO RED a Torino - valutazione tecnico-industriale",
+    "type": "Report tecnico",
+    "sections": [
+      "Technology & IP",
+      "Roadmap",
+      "Risk",
+      "Data Room"
+    ],
+    "limits": "Analisi desk; richiede verifica con dati sperimentali e legali.",
+    "path": "progetto/ECO RED a Torino_ valutazione tecnico-industriale..."
+  },
+  {
+    "title": "ECO_RED_report.docx",
+    "type": "Report dataset brevetti",
+    "sections": [
+      "Patent Intelligence",
+      "FTO",
+      "Methodology"
+    ],
+    "limits": "Non contiene raw performance data della startup.",
+    "path": "progetto/ECO_RED_report.docx"
+  },
+  {
+    "title": "Analisi delle 5 forze di Porter.pdf",
+    "type": "Strategia",
+    "sections": [
+      "Market",
+      "Porter",
+      "Competitors",
+      "Roadmap"
+    ],
+    "limits": "Scenari e benchmark da trattare come supporto qualitativo.",
+    "path": "Downloads/Analisi delle 5 forze di porter.pdf"
+  },
+  {
+    "title": "PUBBLICAZIONI DEFINITIVO.xlsx",
+    "type": "Dataset pubblicazioni",
+    "sections": [
+      "Publications",
+      "Performance frontier",
+      "Integrated Science/IP"
+    ],
+    "limits": "I campi tassonomici derivano da arricchimento e vanno interpretati come classificazione.",
+    "path": "PUBBLICAZIONI DEFINITIVO.xlsx"
+  },
+  {
+    "title": "Dataset brevetti / Brevetti arricchiti",
+    "type": "Dataset brevetti",
+    "sections": [
+      "Patents",
+      "Technology & IP",
+      "Integrated Science/IP"
+    ],
+    "limits": "Le citazioni e gli assignee dipendono dalla pulizia del dataset.",
+    "path": "public/data/patents_tables.json"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "force": "Rivalita tra concorrenti",
+    "intensity": "Alta",
+    "why": "AEM, SOEC, plasma e RWGS competono per lo stesso bisogno industriale di CO/syngas low-carbon.",
+    "implication": "Serve differenziazione su costo, modularita, temperatura e componenti non nobili."
+  },
+  {
+    "force": "Minaccia di sostituti",
+    "intensity": "Alta",
+    "why": "CO fossile, RWGS + H2, SOEC, plasma e acquisto esterno possono sostituire la proposta.",
+    "implication": "Il caso d'uso deve dimostrare vantaggio economico o strategico specifico."
+  },
+  {
+    "force": "Potere dei clienti",
+    "intensity": "Alta",
+    "why": "I clienti industriali sono grandi, conservativi e chiedono affidabilita, costo e sicurezza.",
+    "implication": "Dimostrare uptime, qualita CO, safety e contratti offtake."
+  },
+  {
+    "force": "Potere dei fornitori",
+    "intensity": "Medio-alta",
+    "why": "Membrane AEM, GDL, ionomeri, componenti stack e energia rinnovabile sono input critici.",
+    "implication": "Dual sourcing e partnership componenti riducono lock-in."
+  },
+  {
+    "force": "Nuovi entranti",
+    "intensity": "Media",
+    "why": "Il deep-tech ha barriere, ma finanziamenti climate-tech e brevetti attirano nuovi player.",
+    "implication": "Depositi IP su processo e scale-up vanno accelerati."
+  }
+]

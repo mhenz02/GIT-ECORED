@@ -1,0 +1,38 @@
+[
+  {
+    "indicator": "Technology readiness",
+    "level": "Medio-basso",
+    "evidence": "TRL integrato indicativo 4-5.",
+    "implication": "Serve passaggio da cella a stack e test piu lunghi."
+  },
+  {
+    "indicator": "IP strength",
+    "level": "Medio",
+    "evidence": "Catalizzatore brevettato, ma controllo licenza da verificare.",
+    "implication": "Blindare field-of-use, sublicenze e diritti futuri."
+  },
+  {
+    "indicator": "FTO risk",
+    "level": "Alto",
+    "evidence": "Rischi su MEA, membrane, GDL, stack, BoP e separazione.",
+    "implication": "FTO professionale prima di pilot e fundraising avanzato."
+  },
+  {
+    "indicator": "Market attractiveness",
+    "level": "Medio-alto",
+    "evidence": "Hard-to-abate, CO low-carbon e policy UE.",
+    "implication": "Selezionare use case dove il valore del CO verde supera costo e rischio."
+  },
+  {
+    "indicator": "Competitive pressure",
+    "level": "Alto",
+    "evidence": "AEM diretti, SOEC maturi, RWGS/plasma sostituti.",
+    "implication": "Definire posizionamento su bassa temperatura e non-noble catalyst."
+  },
+  {
+    "indicator": "Investment readiness",
+    "level": "Medio-basso",
+    "evidence": "Data room da rafforzare con test indipendenti, TEA/LCA e HSE.",
+    "implication": "Priorita a milestone verificabili."
+  }
+]
